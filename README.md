@@ -1,5 +1,5 @@
 # oci-compute-automation
-This is a test file, to see if it is pushed to DEV branch
+This is a test, to see how JIRA works
 Scripts in Terraform and OCI CLI to create/delete instances in OCI
 1. cli-create-instance.sh - Create Instance using OCI CLI
 2. cli-destroy-instance.sh - Remove Instance using OCI CLI
